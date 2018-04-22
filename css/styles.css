@@ -1,0 +1,129 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 0;
+    background-color: #F0F2EF;
+	}
+
+header {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+    width:100%;
+    background-color: #528413;
+  }
+ 
+.fecha {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px;
+  }
+
+.Anchors {
+    right: 0px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #73AD21;
+    display: inline;
+    padding:  20px 20px 20px 20px;
+    background-color: #E7AB57;
+  }
+
+  .main-nav {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    overflow: auto;
+    height: 50px;
+    margin: auto;
+    background-color: #FFA238;
+  }
+
+ul {
+    padding: 1px;
+    text-align: center;
+  }
+
+li {
+    display: inline;
+    padding: 0px 20px 0px 20px;
+  }
+
+.textbox {
+    color:black;
+    max-width: 700px;
+    margin: auto;
+    background-color: #F0F2EF;
+  }
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+    font-size: 100px;
+    padding-top: -5px;
+    text-align: center;
+    color: black;
+  }
+
+h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 200;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+  }
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+    padding-bottom: 40px;
+    color: black;
+    max-width: 700px;
+    margin: auto;
+  }
+
+.byline {
+		font-style: italic;
+		font-weight: bold;
+		border-bottom: 0px solid #000000;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+table.poblacion td.cifra {
+  text-align: right;
+}
+
+figcaption {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #6D676E;
+  }
+
+.Videos {
+  padding: 100px 150px;
+  background-color: #92BBEC;
+}
+
+.redes {
+  text-align: center;
+}
+
+footer {
+  padding: 100px 150px;
+  background-color: #E53349;
+  text-align: center;
+}
+
+p {
+	 text-align: justify-all;
+  }
+
+blockquote {
+	font-size: 35px;
+  }
+     
